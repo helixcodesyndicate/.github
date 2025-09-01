@@ -1,3 +1,6 @@
+
+![Helix Code Syndicate logo](Gemini_Generated_Image_uddil5uddil5uddi.png "Helix Code Syndicate logo")
+
 HelixCode Syndicate Manifesto
 =============================
 
