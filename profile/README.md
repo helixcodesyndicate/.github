@@ -1,5 +1,5 @@
 
-![Helix Code Syndicate logo](Gemini_Generated_Image_uddil5uddil5uddi.png "Helix Code Syndicate logo")
+<img src="Gemini_Generated_Image_bvpv57bvpv57bvpv.png" width="50%" height="50%" alt="Helix Code Syndicate logo">
 
 HelixCode Syndicate Manifesto
 =============================
