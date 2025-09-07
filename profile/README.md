@@ -24,5 +24,4 @@ The action group will be a collaborative, hands-on initiative. We will use GitHu
 
 **I like the idea, how can I join?**
 
-Follow the organization and join our [discord server](https://discord.gg/knugsfZj) (channel #helix-code-syndicate)
-
+Follow the organization and join our [discord server](https://discord.gg/kY5DkCD6qp).
